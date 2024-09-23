@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+body {
+    font-family: "quicksand";
+}
+
+header, main, footer {
+    text-align: center;
+}
+
+h1, h2 {
+    font-size: 40px;
+}
+
+.fa-regular.fa-envelope {
+    font-size: 20px;
+    text-align: center;
+}
+
+h2.email {
+    font-size: 20px;
+    text-align: center;
+    display: inline;
+}
+
+
+main img {
+    margin: 3em;
+    border-radius: 10px;
+}
+
+.description p {
+    margin-top: 2em;
+}
+
+.hobby {
+    display: inline-block;
+}
+
+main i, footer i {
+    margin-inline: 0.2em;
+}
+
+main .competenze div {
+    display: inline-block;
+    
+}
+
+table {
+    margin-inline: auto;
+    margin-block: 3em;
+    
+}
+
+
+main table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1em;
+}
+
+footer {
+    margin: 5em;
+}
